@@ -1,4 +1,4 @@
-(defproject org.clojars.pastafari/salesforce-api "0.1.0-SNAPSHOT"
+(defproject org.clojars.pastafari/salesforce-api "0.1.0"
   :description "A Salesforce API wrapper in Clojure"
   :url "http://github.com/pastafari"
   :license {:name "Eclipse Public License"
